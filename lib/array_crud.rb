@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array
- create_an_array = [inzo, seven lions, sg lewis, flume]
+def create_an_array(array)
+ array = [inzo, seven lions, sg lewis, flume]
 end
 
 def add_element_to_end_of_array(array, element)
